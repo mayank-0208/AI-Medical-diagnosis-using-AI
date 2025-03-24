@@ -28,7 +28,7 @@ Installation & Setup 🚀
 bash
 Copy
 Edit
-git clone https://github.com/Ritikayogi/AI-Medical-diagnosis-using-AI
+git clone https://github.com/mayank-0208/AI-Medical-diagnosis-using-AI.git
 cd disease-prediction-ml
 2️⃣ Install dependencies:
 
